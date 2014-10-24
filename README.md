@@ -10,10 +10,10 @@ This is my result for the second programming assignment of the
 My repository is based on a fork of 
 [the initial repository](https://github.com/rdpeng/ProgrammingAssignment2).
 
-The cachematrix.R file contains 2 to make repeated calculation of the 
+The `cachematrix.R` file contains 2 to make repeated calculation of the 
 inverse of a matrix more efficient:
-1. makeCacheMatrix creates a special "matrix" object with an internal cache.
-2. cacheSolve returns the inverse of a matrix object created by makeCacheMatrix.
+1. `makeCacheMatrix` creates a special "matrix" object with an internal cache.
+2. `cacheSolve` returns the inverse of a matrix object created by makeCacheMatrix.
 
 ### Simple test scenario
 
