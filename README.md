@@ -19,7 +19,7 @@ inverse of a matrix more efficient:
 ### Simple test scenario
 
     # Source the file
-    source('cacheMatrix.R')
+    source('cachematrix.R')
     
     # Define a simple matrix
     x <- matrix(c(1, 2, 3, 4), nrow=2, ncol=2)
