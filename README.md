@@ -53,3 +53,6 @@ I'm following
   [the Google R coding guideline](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml).
 
 Just testing git branch stuff
+
+And creating yet another branch
+
